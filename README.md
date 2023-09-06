@@ -1,4 +1,4 @@
-# InternPe-Internship
+# InternPe-Internship(Python Programming)
 PROJECT-1
 
 A fully functional Tic-Tac-Toe game built from scratch using Python and the Tkinter library for GUI development.
